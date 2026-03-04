@@ -20,6 +20,8 @@ Applies to all cross-functional projects that deliver product features, services
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
 
+> **Expanded personas:** The team also includes QA Engineers, UX Designers / Researchers, Business Analysts, Technical Writers, and Release Managers. See [OctoAcme Roles & Personas](octoacme-roles-and-personas.md) for full role summaries, responsibilities, and interaction notes (added in [issue #4](https://github.com/Bogdansky/skills-scale-institutional-knowledge-using-copilot-spaces/issues/4)).
+
 ## Key Artifacts
 - Project Charter / One-pager
 - Roadmap and Release Plan
