@@ -28,7 +28,24 @@ OctoAcme delivers projects using a customer-first, iterative, and data-informed 
 - <a href="octoacme-risks-and-communication.md">Risks &amp; Communication</a>
 - <a href="octoacme-release-and-deployment.md">Release &amp; Deployment Guide</a>
 - <a href="octoacme-retrospective-and-continuous-improvement.md">Retrospective &amp; Continuous Improvement</a>
-- <a href="octoacme-roles-and-personas.md">Roles &amp; Personas</a>
+- <a href="octoacme-roles-and-personas.md">Roles &amp; Personas</a> — includes QA Engineer, UX Designer, Business Analyst, Technical Writer, and Release Manager
+
+## Templates
+Reusable templates for creating new role and process documents:
+
+- <a href="templates/role-responsibilities-template.md">Role Responsibilities Template</a> — copy this when documenting a new role
+
+## Checklists
+Practical checklists for release and quality processes:
+
+- <a href="checklists/release-readiness-checklist.md">Release Readiness Checklist</a> — for Release Managers and teams before every production deployment
+- <a href="checklists/qa-checklist.md">QA Handoff &amp; Release Checklist</a> — for QA Engineers to complete before handing off to the Release Manager
+
+## Reviewing Role Ownership
+
+During **sprint planning**, review the Roles &amp; Personas document to confirm that each key deliverable has a clearly identified owner. Ask: "Which persona is responsible for this, and have they been involved in refinement?"
+
+During **retrospectives**, use the roles doc to assess whether handoffs between personas went smoothly. Identify any ownership gaps or communication breakdowns, and update the documentation to reflect improvements.
 
 &gt; For additions or updates, use the 'Add Content to Project Management Process Docs' issue template.
 
